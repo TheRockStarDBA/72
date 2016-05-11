@@ -1,0 +1,10 @@
+title: L.A. Riot Deaths
+data:
+  - filename: la-riots-deaths.csv
+    title: Deaths during the Los Angeles Riots of 1992
+    source_url: http://first-news-app.readthedocs.io/en/latest/
+references:
+  - url: http://first-news-app.readthedocs.io/en/latest/
+examples:
+  - url: http://ireapps.github.io/first-news-app/build/index.html
+  - url: http://spreadsheets.latimes.com/la-riots-deaths/
